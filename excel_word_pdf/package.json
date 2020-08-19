@@ -1,0 +1,16 @@
+{
+  "name": "excel_word_pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "excel": "nodemon excel.py",
+    "pdfs": "nodemon pdfs.py",
+    "word": "nodemon word.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

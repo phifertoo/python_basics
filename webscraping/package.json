@@ -1,0 +1,19 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webbrowser": "nodemon webbrowser.py",
+    "download_files": "nodemon download_files.py",
+    "webscraper": "nodemon webscraper.py",
+    "amazon_scraper": "nodemon amazon_scraper.py",
+    "selenium_automation": "nodemon selenium_automation.py",
+    "yahoo_selenium": "nodemon yahoo_selenium.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

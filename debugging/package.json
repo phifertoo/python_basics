@@ -1,0 +1,17 @@
+{
+  "name": "debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "nodemon debug.py",
+    "exceptions": "nodemon exceptions.py",
+    "stoplight": "nodemon stoplight.py",
+    "vscode_debugger": "nodemon vscode_debugger.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "phoneandemail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scraper": "nodemon scraper.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}

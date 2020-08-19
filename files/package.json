@@ -1,0 +1,19 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "paths": "nodemon paths.py",
+    "files": "nodemon files.py",
+    "shelf": "nodemon shelf.py",
+    "moving_files": "nodemon moving_files.py",
+    "delete_files": "nodemon delete_files.py",
+    "directory_tree": "nodemon directory_tree.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "expressions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "expressions": "nodemon expressions.py",
+    "truthy_falsy": "nodemon truthy_falsy.py",
+    "while": "nodemon while.py",
+    "for": "nodemon for.py",
+    "range": "nodemon range.py",
+    "importing_modules": "nodemon importing_modules.py",
+    "functions": "nodemon functions.py",
+    "scope": "nodemon scope.py",
+    "try_except": "nodemon try_except.py",
+    "guess_the_number": "nodemon guess_the_number.py",
+    "lists": "nodemon lists.py",
+    "advanced_variables": "nodemon advanced_variables.py",
+    "strings": "nodemon strings.py",
+    "referencing": "nodemon referencing.py",
+    "dictionary": "nodemon dictionary.py",
+    "strings_advanced": "nodemon strings_advanced.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
